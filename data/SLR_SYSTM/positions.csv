@@ -1,0 +1,10 @@
+Name,X Position (AU),Y Position (AU),X Velocity (km/s),Y Velocity (km/s)
+Sun,0,0,0,0
+Mercury,0.39,0,0,48
+Venus,0.72,0,0,35.4
+Earth,1,0,0,29
+Mars,1.52,0,0,24.3
+Jupiter,5.2,0,0,13.2
+Saturn,9.58,0,0,9.7
+Uranus,19.22,0,0,6.8
+Neptune,30.05,0,0,5.5

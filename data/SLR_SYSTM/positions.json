@@ -1,0 +1,92 @@
+{
+    "Sun": {
+        "position": [
+            0,
+            0
+        ],
+        "velocity": [
+            0,
+            0
+        ]
+    },
+    "Mercury": {
+        "position": [
+            0.39,
+            0
+        ],
+        "velocity": [
+            0,
+            48
+        ]
+    },
+    "Venus": {
+        "position": [
+            0.72,
+            0
+        ],
+        "velocity": [
+            0,
+            35.4
+        ]
+    },
+    "Earth": {
+        "position": [
+            1,
+            0
+        ],
+        "velocity": [
+            0,
+            29
+        ]
+    },
+    "Mars": {
+        "position": [
+            1.52,
+            0
+        ],
+        "velocity": [
+            0,
+            24.3
+        ]
+    },
+    "Jupiter": {
+        "position": [
+            5.2,
+            0
+        ],
+        "velocity": [
+            0,
+            13.2
+        ]
+    },
+    "Saturn": {
+        "position": [
+            9.58,
+            0
+        ],
+        "velocity": [
+            0,
+            9.7
+        ]
+    },
+    "Uranus": {
+        "position": [
+            19.22,
+            0
+        ],
+        "velocity": [
+            0,
+            6.8
+        ]
+    },
+    "Neptune": {
+        "position": [
+            30.05,
+            0
+        ],
+        "velocity": [
+            0,
+            5.5
+        ]
+    }
+}
